@@ -1,7 +1,7 @@
 # AI Data Analyst
 
 A production-style AI-powered data analysis application that allows users to upload CSV datasets, ask questions in natural language, generate evidence-backed insights, visualize results, and inspect the underlying Pandas and SQL logic.
-ggffgnggggd
+
 ## Demo Video
 
 [▶️ Watch the Demo Video](https://drive.google.com/file/d/1SkbrjwtcXDoGrqcBkUascEMKay7Ia67B/view?usp=sharing)
